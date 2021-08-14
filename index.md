@@ -9,7 +9,7 @@ profile_picture:
   你好! My name is Zhengxuan Luan and I'm an undergraduate in IAIR at Xi’an Jiaotong University.
 </p><br>
 
-## Content
+## Contact
 
 <p>
   <b>Email</b>: luanzhengxuan7@xjtu.stu.edu.cn<br>
