@@ -1,14 +1,24 @@
 ---
 layout: home
 profile_picture:
-  src: /assets/img/profile-pic.jpg
+  src: /assets/img/profile-picture.jpg
   alt: website picture
 ---
 
 <p>
-  Welcome! This site serves as an example for the Bay Jekyll theme. Bay is a very simple and minimal theme, directly inspired by Dan Grover's <a href="http://dangrover.com">website</a>.
-</p>
+  你好. My name is Zhengxuan Luan and I'm an undergraduate in IAIR at Xi’an Jiaotong University.
+</p><br>
+
+## Content
 
 <p>
-  You can find the source code and the instructions on <a href="https://github.com/eliottvincent/bay">GitHub</a>.
-</p>
+  <b>Email</b>:luanzhengxuan7@xjtu.stu.edu.cn<br>
+</p><br>
+
+## Research Interests
+<ul>
+  <li>Domain Specific Architecture</li>
+  <li>Machine Learning</li>
+  <li>Hardware Acceleration</li>
+</ul><br>
+

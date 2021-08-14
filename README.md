@@ -109,7 +109,7 @@ profile_picture:
 ---
 
 <p>
-  Welcome to mysite!
+  Welcome to Zhengxuan Luan's site!
 </p>
 ```
 
