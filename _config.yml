@@ -61,4 +61,4 @@ exclude:
   - vendor/ruby/
 
 # Used for defeating caching
-version: 12
+version: 10
