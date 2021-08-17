@@ -14,8 +14,8 @@ header:
     # - name: Home
     #   value: https://zhengxuan-luan.github.io
     #   slug: /
-    - name: CV
-      value: /file/cv.pdf
+    # - name: CV
+    #   value: /file/cv.pdf
     # - name: Blog
 
 footer:
