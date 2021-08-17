@@ -11,11 +11,11 @@ og_image: /assets/img/profile-picture.jpg
 
 header:
   pages:
-    - name: Home
-      value: https://zhengxuan-luan.github.io
+    # - name: Home
+    #   value: https://zhengxuan-luan.github.io
     #   slug: /
     - name: CV
-      value: https://zhengxuan-luan.github.io/file/cv.pdf
+      value: /file/cv.pdf
     # - name: Blog
 
 footer:
