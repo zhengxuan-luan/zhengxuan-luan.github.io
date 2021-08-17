@@ -12,7 +12,7 @@ profile_picture:
 ## Contact
 
 <p>
-  <b>Email</b>: luanzhengxuan7@xjtu.stu.edu.cn<br>
+  <b>Email</b>: luanzhengxuan7@stu.xjtu.edu.cn<br>
   <b>Wechat</b>: aaBrick<br>
 </p><br>
 
