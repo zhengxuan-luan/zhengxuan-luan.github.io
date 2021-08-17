@@ -11,9 +11,9 @@ og_image: /assets/img/profile-picture.jpg
 
 header:
   pages:
-    # - name: Home
+    - name: Home
     #   slug: /
-    # - name: Work
+    - name: CV
     # - name: Blog
 
 footer:

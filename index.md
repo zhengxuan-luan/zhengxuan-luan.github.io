@@ -6,7 +6,7 @@ profile_picture:
 ---
 
 <p>
-  你好! My name is Zhengxuan Luan and I'm an undergraduate in IAIR at Xi’an Jiaotong University.
+  你好! My name is Zhengxuan Luan and I'm an undergraduate in <a href="http://www.aiar.xjtu.edu.cn/">IAIR</a> at Xi’an Jiaotong University.
 </p><br>
 
 ## Contact
@@ -18,8 +18,9 @@ profile_picture:
 
 ## Research Interests
 <ul>
-  <li>Domain Specific Architecture</li>
+  <li>Computer Architecture</li>
   <li>Machine Learning</li>
-  <li>Hardware Acceleration</li>
+  <li>Domain Specific Architecture</li>
+  <li>Edge Computing</li>
 </ul><br>
 
